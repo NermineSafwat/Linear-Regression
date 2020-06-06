@@ -7,3 +7,5 @@ Testing the model on a dataset for breast cancer patients details to classify wh
 Includes tranforming the regression problem to classification
 
 The avg accuracy of this model is 93.58%
+
+Full implementation with dataset is uploaded in this repo
